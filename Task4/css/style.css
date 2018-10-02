@@ -1,0 +1,31 @@
+* {
+	height: 100%;
+	margin: 0;
+}
+
+header {
+	height: 70px;
+	background: olive;
+}
+
+ul {
+	list-style: none;
+	line-height: 70px;
+}
+
+li {
+	display: inline-block;
+	color: white;
+	padding: 10px;
+	margin-right: 20px;
+
+}
+
+section {
+	background: #c0c7e2;
+	padding-top: 15px;
+}
+
+nav {
+	float: right;
+}
